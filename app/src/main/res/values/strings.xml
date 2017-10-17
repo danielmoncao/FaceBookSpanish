@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FaceBookSpanish</string>
+
+    <string name="facebook_app_id">1580242381986922</string>
+
+
+    <string name="fb_login_protocol_scheme">1580242381986922</string>
+
+
+</resources>
